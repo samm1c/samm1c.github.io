@@ -1,0 +1,35 @@
+---
+title: "Chinese Checkers"
+excerpt: "Implemented multi-process driver program and engine, allowing users and computers to play against each other. <br/><img src='/images/checkers demo image2.png'>"
+collection: portfolio
+---
+
+<p>a 2-person Chinese Checkers game built in C for multithreading</p>
+
+<p>built in CSE 320 to practice handling processes and signals</p>
+
+<p><b>stack:</b> C, Valgrind, GDB, POSIX threads, Linux</p>
+
+<ul>
+    <li>primarily designed the driver program and engine (computer)</li>
+    <li>implemented logic for argument parsing</li>
+    <li>gracefully handled signals (<code>SIGINT</code>, <code>SIGTERM</code>, <code>SIGHUP</code>, etc.) for all scenarios</li>
+</ul>
+
+<h3>user v. user </h3>
+
+<video width="100%" controls preload="metadata">
+  <source src="/videos/checkers demo_1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<h3>computer v. computer</h3>
+
+<video width="100%" controls preload="metadata">
+  <source src="/videos/checkers demo_2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<p>
+    <b>Note:</b> <code>/include</code> and <code>util/versus</code> were provided by the assignment. I only take credit for the code written in <code>/src</code>.
+</p>
