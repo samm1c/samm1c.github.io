@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : /IMG_20250724_001730 (cropped2).jpg
+  avatar           : /IMG_20260604_191654.jpg
   name             : "Sammi Chong"
   pronouns         : # example: "she/her"  
   bio              : "senior in CS @ SBU"
-  location         : "New York, NY"
+  location         : "Staten Island, NY"
   employer         : "Stony Brook University"
   uri              : # URL
   email            : "sc3vvv@gmail.com" 
