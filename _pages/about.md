@@ -13,7 +13,7 @@ specialization in Security and Privacy. As such, I'm passionate about cybersecur
 
 <!-- passion for software engineering. I love helping others and enjoy creating applications that can do so. For example, I'm currently TA'ing a CS course where I get to teach a lab of 30 students. I've learned a lot from my students due to my desire to support them, which motivates me to do my best. Additionally, I also interned at NYC Department of Homeless Services for a program that mentored thousands of homeless students. There, I was able to learn a lot about helping and working with others. I would say that I'm diligent, organized, friendly, and excited to learn and grow my career! -->
 
-This semester, I'm looking forward to learning more about digital security and software engineering. I will also be working on my personal projects.
+This semester, I'm looking forward to learning more about digital security and software engineering. I will also be continuing as a Teaching Assistant for a CS course where I get to teach a lab of 30 students. I've learned a lot from my students and tried to support them as much as I can, which motivates me to do my best.
 
 ## Contact Information
 For any inquiries, please feel free to contact me:  
